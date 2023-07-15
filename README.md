@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="melaku.jpeg" width="111px" align="center">
+<img src="MELAKU7777/melaku.jpeg" width="111px" align="center">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
