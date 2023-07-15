@@ -8,13 +8,6 @@
 
 - 🔭 I’m currently working on **Pitchshift**
 
-🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
-<h2>
-- 👩‍💻👨‍💻 I regularly write articles on <h5>//telegram  channel link // 👇 https://t.me/M777B7GOD</h5>
-  <h3>//telegram Personal link//🌏 👉                 https://t.me/@NIGHTsun_MELAKu777_theJESUS </h3>  
-<h6> // group link//👉 https://t.me/M777bm </h6>
-       <h3>//my tiktok link// 👇</h3>🌎https://vm.tiktok.com/ZM2X2fnut/]
-</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -28,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melaku777&show_icons=true&locale=en" alt="melaku777" /></p>
 
-
+🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
 <h2>
 - 👩‍💻👨‍💻 I regularly write articles on <h5>//telegram  channel link // 👇 https://t.me/M777B7GOD</h5>
   <h3>//telegram Personal link//🌏 👉                 https://t.me/@NIGHTsun_MELAKu777_theJESUS </h3>  
