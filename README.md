@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Melaku the god</h1>
 <h3 align="center">I am a programming student and I live in Ethiopia.</h3>
-
+<h1>  🌲🌎🌎⛪️⛪️🌐🌐🌅🌅👽👽👨‍💻👨‍💻🤖🤖👽👽🌲 </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melaku777" alt="melaku777" /></a> </p>
 
 - 🔭 I’m currently working on **Pitchshift**
 
-- 👩‍💻👨‍💻 I regularly write articles on [//channel link // https://t.me/M777B7GOD https://t.me/M777B7GOD //Personal link// @NIGHTsun_MELAKu777_theJESUS @NIGHTsun_MELAKu777_theJESUS // group link// https://t.me/M777bm https://t.me/M777bm https://vm.tiktok.com/ZM2X2fnut/](//channel link // https://t.me/M777B7GOD https://t.me/M777B7GOD //Personal link// @NIGHTsun_MELAKu777_theJESUS @NIGHTsun_MELAKu777_theJESUS // group link// https://t.me/M777bm https://t.me/M777bm https://vm.tiktok.com/ZM2X2fnut/)
-
+🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
+<h2>
+- 👩‍💻👨‍💻 I regularly write articles on <h5>//telegram  channel link // 👇 https://t.me/M777B7GOD</h5>
+  <h3>//telegram Personal link//🌏 👉                 https://t.me/@NIGHTsun_MELAKu777_theJESUS </h3>  
+<h6> // group link//👉 https://t.me/M777bm </h6>
+       <h3>//my tiktok link// 👇</h3>🌎https://vm.tiktok.com/ZM2X2fnut/]
+</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
