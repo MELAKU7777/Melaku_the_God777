@@ -1,5 +1,5 @@
 
-<table>
+<table border="1">
  <caption>37547 TEE Electric Powered Rail Car Train Functions (Abbreviated)
  <colgroup><col><col><col>
  <thead>
