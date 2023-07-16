@@ -5,7 +5,7 @@
  <thead>
   <tr>
    <th>
-<h5>//telegram  channel link // 👇 https://t.me/M777B7GOD</h5>   <th>Control Unit
+<h5>telegram channel 👇 </h5>   <th>Control Unit
    <th>Central Station
  <tbody>
   <tr>
