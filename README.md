@@ -4,8 +4,8 @@
  <colgroup><col><col><col>
  <thead>
   <tr>
-   <th>Function
-   <th>Control Unit
+   <th>
+<h5>//telegram  channel link // 👇 https://t.me/M777B7GOD</h5>   <th>Control Unit
    <th>Central Station
  <tbody>
   <tr>
