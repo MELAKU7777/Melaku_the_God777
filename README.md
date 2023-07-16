@@ -4,7 +4,7 @@
  <thead>
   <tr>t
    <th>
-<h5> Hi👋 I'm Melaku, this is my social media link, join.👇 </h5>   <th></th>
+<h5> Hi👋 I'm Melaku, this is my social media link, join.👇 </h5>   <th>u</th>
  <tbody>
   <tr>
    <td>  telegram channel 
