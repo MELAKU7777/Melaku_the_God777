@@ -5,7 +5,7 @@
   <tr>
    <th>
 <h5> 👇 </h5>   <th>
-   <th>Central Station
+   
  <tbody>
   <tr>
    <td>  telegram channel 
@@ -21,10 +21,7 @@ https://t.me/M777bm  <tr>
 my tiktok link
    <td>
 https://vm.tiktok.com/ZM2X2fnut 
-  <tr>
-   <td>Station Announcements - Swiss
-   <td>
-   <td>✔
+  
 </table>
 
 
