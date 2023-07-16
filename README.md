@@ -20,7 +20,7 @@ https://t.me/M777bm  <tr>
    <td>
 my tiktok link
    <td>
-   <td>✔
+https://vm.tiktok.com/ZM2X2fnut 
   <tr>
    <td>Station Announcements - Swiss
    <td>
