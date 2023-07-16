@@ -12,7 +12,7 @@
    <td> https://t.me/M777B7GOD <td>✔
   <tr>
    <td>
-telegram Personal link🌏   <td>  https://t.me/@NIGHTsun_MELAKu777_theJESUS    <td>✔
+telegram Personal link🌏   <td>  https://t.me/@NIGHTsun_MELAKu777_theJESUS 
   <tr>
    <td>Electric locomotive operating sounds
    <td>✔
@@ -57,6 +57,6 @@ telegram Personal link🌏   <td>  https://t.me/@NIGHTsun_MELAKu777_theJESUS    
 <h2>
 - 👩‍💻👨‍💻 I regularly write articles on
     
-<h6> // group link//👉 https://t.me/M777bm </h6>
+
        <h3>//my tiktok link// 👇</h3>🌎https://vm.tiktok.com/ZM2X2fnut/]
 </h2>
