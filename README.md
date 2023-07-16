@@ -51,14 +51,4 @@ https://vm.tiktok.com/ZM2X2fnut
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melaku777&show_icons=true&locale=en" alt="melaku777" /></p>
 
 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
-<h2>
-- 👩‍💻👨‍💻 I regularly write articles on
-    
 
-
-<h6> // group link//👉 https://t.me/M777bm </h6>
-
-
-
-       <h3>//my tiktok link// 👇</h3>🌎https://vm.tiktok.com/ZM2X2fnut/]
-</h2>
