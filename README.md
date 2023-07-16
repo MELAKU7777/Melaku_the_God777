@@ -1,7 +1,4 @@
-![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h1 align="center">Hi 👋, I'm Melaku the god</h1>
 <h3 align="center">I am a programming student and I live in Ethiopia.</h3>
