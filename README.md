@@ -12,7 +12,7 @@
     </table>
 
 
-<table border="7" width="15px" border:color="red;">
+<table border="7" width="1px" border:color="red;">
  <colgroup><col><col>
  <thead>
   <tr>
