@@ -1,3 +1,37 @@
+
+<table>
+ <caption>37547 TEE Electric Powered Rail Car Train Functions (Abbreviated)
+ <colgroup><col><col><col>
+ <thead>
+  <tr>
+   <th>Function
+   <th>Control Unit
+   <th>Central Station
+ <tbody>
+  <tr>
+   <td>Headlights
+   <td>✔
+   <td>✔
+  <tr>
+   <td>Interior Lights
+   <td>✔
+   <td>✔
+  <tr>
+   <td>Electric locomotive operating sounds
+   <td>✔
+   <td>✔
+  <tr>
+   <td>Engineer's cab lighting
+   <td>
+   <td>✔
+  <tr>
+   <td>Station Announcements - Swiss
+   <td>
+   <td>✔
+</table>
+
+
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h1 align="center">Hi 👋, I'm Melaku the god</h1>
