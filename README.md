@@ -1,7 +1,3 @@
-
-![image](https://pngtree.com/freebackground/lion-lion-wallpapers-hd-desktop-wallpapers_2637541.png
-
-
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
 <h1 align="center">Hi 👋, I'm Melaku the god</h1>
