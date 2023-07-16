@@ -2,7 +2,7 @@
   <h1 align="center">My Name </h1>
    <table border="18" align="center">
         <tr>
-           <th style="color:red;">First Name</th>
+           <th>First Name</th>
            <th>Last Name</th>
         </tr>
         <tr>
