@@ -1,19 +1,3 @@
-
-
-<style>
-        .table1  {
-           border: 1px solid red;
-        }
-        .table1 th {
-           border: 1px solid blue;
-           padding: 5px;
-        }
-        .table1 td {
-           border: 1px dashed green;
-           padding: 5px;
-        }
-    </style>
-</head>
 <body>
     <h3>HTML Table Boder</h3>
     <table class="table1">
