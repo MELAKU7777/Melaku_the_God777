@@ -1,4 +1,33 @@
 
+
+<style>
+        .table1  {
+           border: 1px solid red;
+        }
+        .table1 th {
+           border: 1px solid blue;
+           padding: 5px;
+        }
+        .table1 td {
+           border: 1px dashed green;
+           padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h3>HTML Table Boder</h3>
+    <table class="table1">
+        <tr>
+           <th>First Name</th>
+           <th>Last Name</th>
+        </tr>
+        <tr>
+           <td>John</td>
+           <td>Smith</td>
+        </tr>
+    </table>
+
+
 <table border="15"  border:color="red;">
  <colgroup><col><col>
  <thead>
