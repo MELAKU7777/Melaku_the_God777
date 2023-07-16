@@ -1,3 +1,31 @@
+
+<h3>CSS Collapsed Table</h3>
+    <table>
+        <tr>
+           <th style="border-style:solid;border-width:1px;border-color:blue;">
+              border-style:solid;<br/>
+              border-width:1px;<br/>
+              border-color:blue;
+           </th>
+           <th style="border-style:dashed;border-width:1px;border-color:red;">
+              border-style:dashed;<br/>
+              border-width:1px;<br/>
+              border-color:red;
+           </th>
+        </tr>
+        <tr>
+           <td style="border-style:hidden;border-width:1px;border-color:green;">
+              border-style:hidden;<br/>
+              border-width:1px;<br/>
+              border-color:green;
+           </td>
+           <td style="border-style:none;border-width:1px;border-color:green;">
+              border-style:none;<br/>
+              border-width:1px;<br/>
+              border-color:green;
+           </td>
+        </tr>
+    </table>
 <body>
     <h3>HTML Table Boder</h3>
     <table class="table1">
