@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Melaku the god</h1>
 <h3 align="center">I am a programming student and I live in Ethiopia.</h3>
-<h1>  🌲🌎🌎⛪️⛪️🌐🌐🌅🌅👽👽👨‍💻👨‍💻🤖🤖👽👽🌲 </h1>
+<h1>  🌲🌎⛪️⛪️🌐🌅👽👨‍👨‍💻🤖🤖👽🌲 </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melaku777" alt="melaku777" /></a> </p>
 
 - 🔭 I’m currently working on **Pitchshift**
