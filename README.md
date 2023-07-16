@@ -1,6 +1,6 @@
 
 <table border="6">
- <colgroup><col><col><col>
+ <colgroup><col><col>
  <thead>
   <tr>
    <th>
