@@ -1,6 +1,6 @@
 
   <h1 align="center">My Name </h1>
-   <table border="20" align="center"  width="400" height="50"   >
+   <table border="20" align="center"  width="400" height="100"   >
         <tr>
            <th>First Name</th>
            <th>Last Name</th>
