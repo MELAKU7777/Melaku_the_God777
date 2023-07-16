@@ -2,7 +2,7 @@
 <table border="6">
  <colgroup><col><col>
  <thead>
-  <tr>t
+  <tr>
    <th>
 <h5> Hi👋 I'm Melaku, this is my social media link,  </h5>   <th> <h1>join.👇</h1> </th>
  <tbody>
