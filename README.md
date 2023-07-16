@@ -2,10 +2,9 @@
 <table border="6">
  <colgroup><col><col>
  <thead>
-  <tr>
+  <tr>t
    <th>
-<h5> Hi👋 I'm Melaku, this is my social media link, join.👇 </h5>   <th>
-   <th>    Hi👋 I'm Melaku, this is my social media link, join.  </th>
+<h5> Hi👋 I'm Melaku, this is my social media link, join.👇 </h5>   <th></th>
  <tbody>
   <tr>
    <td>  telegram channel 
