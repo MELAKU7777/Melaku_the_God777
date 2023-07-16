@@ -9,8 +9,9 @@ telegram Personal link🌏   <th>Central Station
  <tbody>
   <tr>
    <td>  telegram channel 
-https://t.me/M777B7GOD   <td>
-               https://t.me/@NIGHTsun_MELAKu777_theJESUS    <td>✔
+   <td>
+
+               https://t.me/M777B7GODhttps://t.me/@NIGHTsun_MELAKu777_theJESUS    <td>✔
   <tr>
    <td>Interior Lights
    <td>✔
