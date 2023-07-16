@@ -9,13 +9,10 @@ telegram Personal link🌏   <th>Central Station
  <tbody>
   <tr>
    <td>  telegram channel 
-   <td>
-
-               https://t.me/M777B7GODhttps://t.me/@NIGHTsun_MELAKu777_theJESUS    <td>✔
+   <td> https://t.me/M777B7GOD <td>✔
   <tr>
    <td>Interior Lights
-   <td>✔
-   <td>✔
+   <td>  https://t.me/@NIGHTsun_MELAKu777_theJESUS    <td>✔
   <tr>
    <td>Electric locomotive operating sounds
    <td>✔
