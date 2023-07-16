@@ -5,13 +5,13 @@
  <thead>
   <tr>
    <th>
-<h5>telegram channel 👇 </h5>   <th>Control Unit
-   <th>Central Station
+<h5>telegram channel 👇 </h5>   <th>
+telegram Personal link🌏   <th>Central Station
  <tbody>
   <tr>
    <td>   
-https://t.me/M777B7GOD   <td>✔
-   <td>✔
+https://t.me/M777B7GOD   <td>
+               https://t.me/@NIGHTsun_MELAKu777_theJESUS    <td>✔
   <tr>
    <td>Interior Lights
    <td>✔
@@ -58,8 +58,8 @@ https://t.me/M777B7GOD   <td>✔
 
 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
 <h2>
-- 👩‍💻👨‍💻 I regularly write articles on <h5>//telegram  channel link // 👇 https://t.me/M777B7GOD</h5>
-  <h3>//telegram Personal link//🌏 👉                 https://t.me/@NIGHTsun_MELAKu777_theJESUS </h3>  
+- 👩‍💻👨‍💻 I regularly write articles on
+    
 <h6> // group link//👉 https://t.me/M777bm </h6>
        <h3>//my tiktok link// 👇</h3>🌎https://vm.tiktok.com/ZM2X2fnut/]
 </h2>
