@@ -39,7 +39,7 @@ https://vm.tiktok.com/ZM2X2fnut
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br><br><th>
+<br><br><th>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <h1 align="center">Hi 👋, I'm Melaku the god</h1>
 <h3 align="center">I am a programming student and I live in Ethiopia.</h3>
 <h1>  🌲⛪️🌎🌐🎠🌅👽🤖👨‍💻👽⛪️🌲 </h1>
