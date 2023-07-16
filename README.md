@@ -1,5 +1,5 @@
 
-<table border="6">
+<table border="15">
  <colgroup><col><col>
  <thead>
   <tr>
