@@ -1,6 +1,6 @@
 
   <h3>my name </h3>
-   <table class="table3" align="center">
+   <table border="3" align="center">
         <tr>
            <th>First Name</th>
            <th>Last Name</th>
