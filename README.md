@@ -9,7 +9,7 @@
  <tbody>
   <tr>
    <td>  telegram channel 
-   <td> https://t.me/M777B7GOD <td>✔
+   <td> https://t.me/M777B7GOD 
   <tr>
    <td>
 telegram Personal link🌏   <td>  https://t.me/@NIGHTsun_MELAKu777_theJESUS 
