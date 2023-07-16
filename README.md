@@ -26,7 +26,7 @@
            </td>
         </tr>
     </table>
-<body>
+
     <h3>HTML Table Boder</h3>
     <table class="table1">
         <tr>
