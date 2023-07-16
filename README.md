@@ -1,5 +1,5 @@
 
-  <h3 align="center">My Name </h3>
+  <h1 align="center">My Name </h1>
    <table border="18" align="center">
         <tr>
            <th>First Name</th>
