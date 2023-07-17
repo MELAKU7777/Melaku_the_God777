@@ -1,9 +1,8 @@
 <a href="@NIGHTsun_MELAKu777_theJESUS   "><h1>GOD IS GOOD</mark> </h1></a>
-  <h1 align="center">My Name </h1>
+  
    <table border="20"  align="center"  >
 <tr>
-<th> My Name </th>
-<th>
+<h1 align="center">My Name </h1>
 </tr>
         <tr>
            <th>First Name</th>
