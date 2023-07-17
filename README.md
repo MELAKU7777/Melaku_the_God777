@@ -1,4 +1,4 @@
-<h1><mark>GOD IS GOOD</mark> </h1>
+<a href=""><h1>GOD IS GOOD</mark> </h1></a>
   <h1 align="center">My Name </h1>
    <table border="20"  align="center"  >
         <tr>
